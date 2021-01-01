@@ -26,27 +26,6 @@
   background: #FF8000;
   color: white;
 }
-success {
-  color: #4CAF50;
-}
-secondary {
-  color: #f1f1f1;
-}
-info { 
-  color: #81BEF7;
-}
-black {
-  color: #000;
-}
-alert {
-  color: #F78181;
-}
-default {
-  color: #1abc9c;
-}
-warning {
-  color: #FF8000;
-}
 .header {
   background: #1abc9c;
   color: white;
@@ -54,7 +33,5 @@ warning {
 }
 .header > h1 {
   font-size: 40px;
-}
-.header .center {
   text-align: center;
 }
