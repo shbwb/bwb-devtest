@@ -52,8 +52,10 @@ warning {
   background: #1abc9c;
   color: white;
   padding: 30px;
+}
+.header > h1 {
+  font-size: 40px;
+}
+.header .center {
   text-align: center;
 }
-.header h1 {		
-   font-size: 40px;		
- }
